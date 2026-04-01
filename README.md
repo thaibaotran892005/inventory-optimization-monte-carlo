@@ -70,6 +70,3 @@ The empirical analysis uses daily bakery demand data from **11 May 2016 to 28 Ma
   - **bimodal weekday/weekend patterns** for Main Street B, Station A, and Station B 
 - Across selected bakery segments, parametric and non-parametric confidence intervals were closely aligned, supporting robust operational recommendations.
   
-├── data/
-├── README.md
-└── requirements.txt
