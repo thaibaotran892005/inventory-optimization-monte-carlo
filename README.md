@@ -1,6 +1,6 @@
 # Data-Driven Inventory Optimization
 
-Course project for **Probability and Inference (PI Game 2025)** at **VU Amsterdam**, focused on solving a real-world **newsvendor / inventory optimization** problem for a bakery chain in Vilnius, Lithuania. The project combines **statistical modeling, Monte Carlo simulation, bootstrap inference, and demand analysis** to recommend optimal production quantities under uncertain demand. 
+This project was completed as part of **PI Game 2025** at **VU Amsterdam**. Our team was awarded **1st place**, and the project received a **final score of 10/10**. The case focused on solving a real-world **newsvendor / inventory optimization** problem for a bakery chain in Vilnius, Lithuania. The project combines **statistical modeling, Monte Carlo simulation, bootstrap inference, and demand analysis** to recommend optimal production quantities under uncertain demand. 
 ## Project Overview
 
 This project studies how a bakery chain can determine the **optimal quantity of traditional dessert to produce** when demand is uncertain, surplus products are sold at a lower clearance price, and additional shipping costs apply to unsold inventory. The business objective is to reduce waste, improve operational efficiency, and protect profitability across different store locations. 
@@ -70,19 +70,6 @@ The empirical analysis uses daily bakery demand data from **11 May 2016 to 28 Ma
   - **bimodal weekday/weekend patterns** for Main Street B, Station A, and Station B 
 - Across selected bakery segments, parametric and non-parametric confidence intervals were closely aligned, supporting robust operational recommendations.
   
-## Repository Structure
-
-```text
-.
-├── notebook/
-│   └── inventory_optimization_analysis.ipynb
-├── report/
-│   └── inventory_optimization_report.pdf
-├── project_brief/
-│   └── ACSK_PIGame.pdf
-├── bonus/
-│   └── Bonus_Task.pdf
-├── figures/
 ├── data/
 ├── README.md
 └── requirements.txt
